@@ -4,7 +4,7 @@ import java.util.*;
 
 public class RecursiveClass {
 
-	// testing after MFA
+	// testing after MFAt
 	// recursive print method that prints spaces and hashes that is supplied as str
 	private static void printRecursively(int n, String str) {
 		
